@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Phoney Girlfriend and Phoney Boyfriend are relationship-themed text-based
+adventure games. The games include content (text/voice/picture messages) typical
+of a relationship, from day-to-day interactions to more intimate situations.
+Available now on the [Amazon App Store](https://bit.ly/pg_amzn)!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Phoney Girlfriend and Phoney Boyfriend are developed by
+Angus Cheng ([@ballerindustry](https://twitter.com/ballerindustry)) of
+[Baller Industries](http://ballerindustries.com/)
+and Hubert Lee ([@hubertklee](https://twitter.com/hubertklee)) of
+[Scubed Software](http://www.scubedsoft.com/).
