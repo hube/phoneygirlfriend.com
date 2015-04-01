@@ -3,6 +3,7 @@ layout: post
 title: "Phoney Girlfriend - What to Do"
 date: 2015-03-30T18:37:55+08:00
 categories: strategy
+author: Angus Cheng
 ---
 
 [Getting banned from Google Play](http://ballerindustries.com/2015/03/my-google-play-developer-account-has-been-terminated/) is a major set back, but I still feel like Phoney Girlfriend, or something like it can be a hit. There’s three approaches we could take with it.
