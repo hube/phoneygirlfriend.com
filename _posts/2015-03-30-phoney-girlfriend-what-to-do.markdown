@@ -8,7 +8,7 @@ author: Angus Cheng
 
 [Getting banned from Google Play](http://ballerindustries.com/2015/03/my-google-play-developer-account-has-been-terminated/) is a major set back, but I still feel like Phoney Girlfriend, or something like it can be a hit. There’s three approaches we could take with it.
 <br /><br />
-![What to do](http://ballerindustries.com/wp-content/uploads/2015/03/what_do.jpg)
+![What to do](/assets/2015-03-30-phoney-girlfriend-what-to-do/what_do.jpg)
 
 **1. Launch everywhere else aside from Google Play**
 
@@ -16,7 +16,7 @@ In a way this is the easiest option, since we were planning to do this anyway. C
 
 The downside is we are still at the mercy of the app store Gods. There are a lot of app stores though, and surely we can’t get banned from all of them. Can we? Another thing is if we are kicked off iOS, we probably can’t continue this approach.
 
-![What to do](http://ballerindustries.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-05-at-11.19.32-pm.png)
+![What to do](/assets/2015-03-30-phoney-girlfriend-what-to-do/Screen-Shot-2015-03-05-at-11.19.32-pm.png)
 
 **2. Create a messenger extension**
 
@@ -38,7 +38,7 @@ Phoney Girlfriend was designed to be a mobile application, so porting it over to
 
 It’s a big user interface, and user experience change, and would basically require completely rewriting the entire app. Hubert is a web app expert, but I don’t know anything about it so there’s a lot for me to learn.
 
-![What to do](http://ballerindustries.com/wp-content/uploads/2015/03/freedom.jpg)
+![What to do](/assets/2015-03-30-phoney-girlfriend-what-to-do/freedom.jpg)
 
 The biggest benefit is freedom. With a web app we can do whatever we want, be as offensive as we want, as long as we don’t break the law, no one is going to stop us!
 
