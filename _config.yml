@@ -7,3 +7,6 @@ twitter_username: phoney_girl
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
