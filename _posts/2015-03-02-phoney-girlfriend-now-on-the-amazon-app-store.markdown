@@ -2,6 +2,7 @@
 layout: post
 title: "Phoney Girlfriend Now on the Amazon App Store"
 date: 2015-03-02T10:43:18+08:00
+author: Hubert Lee
 categories: amazon
 ---
 
