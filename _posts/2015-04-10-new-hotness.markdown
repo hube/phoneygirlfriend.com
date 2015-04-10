@@ -73,6 +73,12 @@ The old download system we were using was based on Android's
 which, though well-suited for background jobs, raised exceptions when the
 hosting activity was paused (e.g. the user backed out of the Activity or another
 app came to the foreground).
+
+Nothing comes free though. Our choice of using the DownloadManager service means
+we need to raise the minimum supported version of Android. After reviewing our
+usage statistics, we determined that an overwhelming 95% of our users use
+Android 4.0.3 (Ice Cream Sandwich) or newer. Thus Phoney Girlfriend and Phoney
+Boyfriend will require a minimum version of Android 4.0.3 from now on.
 </td>
 <td markdown="1" style="width:30%">
 ![Old dialogs](/assets/2015-04-10-new-hotness/download-progress-dialog.png "Old dialogs")
