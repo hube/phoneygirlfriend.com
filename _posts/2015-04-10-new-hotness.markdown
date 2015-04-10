@@ -91,10 +91,10 @@ Boyfriend will require a minimum version of Android 4.0.3 from now on.
 ## Living in a Material World
 Last June at [Google I/O](https://www.google.com/events/io), Google announced
 its newest UI paradigm,
-[Material Design](http://www.google.com/design/spec/material-design/introduction.html),
-which launched with the latest Android 5.0 devices in November. Material Design
-has now arrived for Phoney Girlfriend and Phoney Boyfriend! We've refreshed many
-UI elements to stay up-to-date with this new design.
+[Material Design](http://www.google.com/design/spec/material-design/introduction.html).
+This new design launched with the latest Android 5.0 devices in November.
+Material Design has now arrived for Phoney Girlfriend and Phoney Boyfriend!
+We've refreshed many UI elements to stay up-to-date with this new design.
 
 <table style="table-layout: fixed; width: 100%; border-spacing: 1em;">
 <tr>
