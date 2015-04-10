@@ -5,8 +5,7 @@ date: 2015-04-10T10:38:37+08:00
 author: Hubert Lee
 ---
 We've been working hard on the next version of Phoney Girlfriend and Phoney
-Boyfriend. Here's a small preview of what's coming in the next update as well as
-what it took to get there.
+Boyfriend. Here's a small preview of what's coming in the next update.
 
 ## New Characters
 We're introducing two new girlfriends and one new boyfriend in the next update.
