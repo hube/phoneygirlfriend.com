@@ -1,0 +1,34 @@
+---
+layout: post
+title: "A New Tool"
+date: 2015-04-19T10:38:37+08:00
+author: Angus Cheng
+---
+Characters in Phoney Boyfriend/Girlfriend (I'm just going to call it Phoney from now on), are made up of three things:
+
+1. Scripts written by writers as Word Documents.
+
+2. Audio messages recorded by voice actors as MP3 files.
+
+3. Picture Messages from models, JPG files.
+
+Smash those three things together and you have yourself a new character. It's not that easy though. We need to split the Word Document into hundreds of little nodes and create a graph structure. It was a pretty fiddly task, so I created a C# Windows Form application that would help do this. Here's a video of me using it to parse Starr's script
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a9yaSQe9NCs" frameborder="0" allowfullscreen></iframe>
+
+It wasn't an ideal tool, but it sort of worked. Until recently. I asked the writers to create scripts that had more branches, and because of this, it became really hard to link up the scripts using the old tool. So what did we do? We continued using the old tool, and screwed up Brett's script so badly that people started to complain.
+
+![First review](/assets/2015-04-19-a-new-tool/review_a.png "First review")
+![Second review](/assets/2015-04-19-a-new-tool/review_b.png "Second review")
+![Third review](/assets/2015-04-19-a-new-tool/review_c.png "Third review")
+
+So we looked into a new script parsing tool, and eventually chose Twine 2.0
+
+![Andy's word document](/assets/2015-04-19-a-new-tool/word_doc.png "Andy's word document")
+![Andy's twine document](/assets/2015-04-19-a-new-tool/twine_doc.png "Andy's twine document")
+
+That whole first message is parsed into the graph, you have to do it all by hand, but it's much easier to do it without making a mistake. With the old tool you had modify the XML file to link up nodes. It was really confusing.
+
+![Andy's HTML file](/assets/2015-04-19-a-new-tool/html_file.png "Andy's HTML file")
+
+The Twine file is output to an HTML, which we then convert into an XML file, which finally is converted into a SQLite Database at compile time. Actually we haven't finished writing the code that converts the HTML file into an XML file, it should be easy, but who really knows.
