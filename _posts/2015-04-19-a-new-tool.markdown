@@ -12,7 +12,11 @@ Characters in Phoney Boyfriend/Girlfriend (I'm just going to call it Phoney from
 
 3. Picture Messages from models, JPG files.
 
-Smash those three things together and you have yourself a new character. It's not that easy though. We need to split the Word Document into hundreds of little nodes and create a graph structure. It was a pretty fiddly task, so I created a C# Windows Form application that would help do this. Here's a video of me using it to parse Starr's script
+Smash those three things together and you have yourself a new character. It's not that easy though.
+
+<!--more-->
+
+We need to split the Word Document into hundreds of little nodes and create a graph structure. It was a pretty fiddly task, so I created a C# Windows Form application that would help do this. Here's a video of me using it to parse Starr's script
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a9yaSQe9NCs" frameborder="0" allowfullscreen></iframe>
 
