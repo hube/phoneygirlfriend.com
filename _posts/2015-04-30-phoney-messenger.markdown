@@ -11,7 +11,7 @@ I came up with the idea for Phoney Girlfriend during the later stages of working
 
 I miss working full fledged games with lots of graphics, animation and audio. The best part of game development is watching people playing your games and enjoying them.
 
-<iframe src="https://www.youtube.com/embed/TDJMc1ImyPI" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TDJMc1ImyPI" frameborder="0" allowfullscreen></iframe>
 
 At the 6:25 mark in the KSI video above, one of the presenter's makes a drum snare noise in response to a really bad pun the game makes. The thing is, I also added in a drum snare to highlight the lameness of the joke. It's a really funny moment, as the guy makes a drum snare sound exactly when the game does it.
 
