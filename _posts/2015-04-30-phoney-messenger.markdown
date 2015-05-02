@@ -15,6 +15,8 @@ I miss working full fledged games with lots of graphics, animation and audio. Th
 
 At the 6:25 mark in the KSI video above, one of the presenter's makes a drum snare noise in response to a really bad pun the game makes. The thing is, I also added in a drum snare to highlight the lameness of the joke. It's a really funny moment, as the guy makes a drum snare sound exactly when the game does it.
 
+<!--more-->
+
 **Problem 2 - It's difficult to make a hit game**
 
 The problem is it takes a really long time and a lot of money to put those games together. That's okay if you're game makes a lot of money, but it really sucks if the game tanks. It's hard to know what games will be a huge hit, no one really knows. I've made seven games, and I intended all of them to be hits but only two of them were.
