@@ -13,18 +13,16 @@ In a previous post I introduced Phoney Messenger. We aim to use as much of the c
 
 We need to be able to switch between situations in Phoney Messenger. One way to do this is to have a World list, which then lets you pick a character list and then finally a chat list. 
 
-[Image of the various views with arrows]
+![UI flow](/assets/2015-05-06-planning-phoney-messenger/ui_flow.png "UI flow")
 
 Is this too confusing? Adding in a whole new UI screen complicates the user interface by quite a lot. I like minimising the number of taps. Another idea I had was to allow sliding left/right at the Chat List to change the situation. Will people know to do this?
-
-[Image of three chat lists, middle chat list has arrows on it indicating it slides over to another chat list]
 
 **Script Changes**
 
 Scripts in Phoney Girlfriend assume there will only be one character talking to you, but Phoney Messenger scripts will always have more than one. How do we deal with this? We could define up front how many characters are in a script, and then in the script have nodes that define character changes.
 
-[Screenshot of XML file with character list up front]
-[Screenshot of XML file with CharacterChange node]
+![Character Manifest](/assets/2015-05-06-planning-phoney-messenger/character_manifest.png "Character Manifest")
+
 Do we allow replying to multiple characters in the same world at the same time? Do we restrict it so that you can only reply to one character per world to progress the script? 
 
 Do we want to include integers th at are incremented and decremented? So that we can add in if statements to control the flow of the story? 
