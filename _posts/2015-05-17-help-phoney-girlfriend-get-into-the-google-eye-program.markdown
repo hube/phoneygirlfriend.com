@@ -10,14 +10,23 @@ If we can get **200 likes** by June 1, the **next girlfriend and boyfriend** we
 release will be **free**!
 
 ---
-\\
-Angus and I are applying for the
-[Google EYE program](http://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram) in
-Hong Kong. This program will help provide us with the mentorship and support we
-need to bring you the next great version of Phoney Girlfriend. The program is
-designed to help young entrepreneurs like yours truly to build their business
-and take it to the next level.
-
+<br />
+<table>
+<tr>
+<th markdown="1">
+  ![Brenda](/assets/2015-05-17-help-phoney-girlfriend-get-into-the-google-eye-program/brenda-smile.png)
+</th>
+<td markdown="1">
+  Angus and I are applying for the
+  [Google EYE program](http://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram) in
+  Hong Kong. This program will help provide us with the mentorship and support we
+  need to bring you the next great version of Phoney Girlfriend. The program is
+  designed to help young entrepreneurs like yours truly to build their business
+  and take it to the next level.
+</td>
+</tr>
+</table>
+<br />
 <!--more-->
 
 Angus and I have been working on Phoney Girlfriend for the past year and a half
