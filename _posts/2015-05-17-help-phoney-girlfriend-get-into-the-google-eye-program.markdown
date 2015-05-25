@@ -13,10 +13,10 @@ release will be **free**!
 <br />
 <table>
 <tr>
-<th markdown="1">
+<th style="width:30%" markdown="1">
   ![Brenda](/assets/2015-05-17-help-phoney-girlfriend-get-into-the-google-eye-program/brenda-smile.png)
 </th>
-<td markdown="1">
+<td style="width:70%" markdown="1">
   Angus and I are applying for the
   [Google EYE program](http://entrepreneurship.bschool.cuhk.edu.hk/eyeprogram) in
   Hong Kong. This program will help provide us with the mentorship and support we
