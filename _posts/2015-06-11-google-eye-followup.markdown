@@ -7,9 +7,9 @@ author: Hubert Lee
 
 A couple weeks ago, we
 [announced](/2015/05/17/help-phoney-girlfriend-get-into-the-google-eye-program.html)
-that the next phoney girlfriend and the next phoney boyfriend that we release
-would be free if our [YouTube video](https://youtu.be/CvYu94bKlmA) hit 200
-thumbs up by June 1. Today we're happy to announce that **we hit that goal**!
+that the next girlfriend and boyfriend that we release would be free if our
+[YouTube video](https://youtu.be/CvYu94bKlmA) hit 200 thumbs up by June 1. Today
+we're happy to announce that **we hit that goal**!
 
 <!--more-->
 
