@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Issues With Crashlytics
 date: 2015-05-25T15:28:09+08:00
-author:
+author: Hubert Lee
 ---
 
 ![](/assets/2015-05-25-identifying-issues-with-crashlytics/crash-graph.png)
