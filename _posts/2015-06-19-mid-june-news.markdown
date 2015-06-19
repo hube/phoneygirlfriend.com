@@ -37,7 +37,7 @@ set of judges. Ten teams are selected for the third and final stage. At that
 point we'll be given a mentor, who is going to guide us towards extreme 
 entrepreunerial glory.
 
-[Top 35](/assets/2015-06-19-mid-june-news/team_list.png "Top 35")
+![Top 35](/assets/2015-06-19-mid-june-news/team_list.png "Top 35")
 
 **Live Streaming**
 
