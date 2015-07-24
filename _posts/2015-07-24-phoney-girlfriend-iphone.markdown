@@ -7,4 +7,4 @@ author: Angus Cheng
 
 Phoney Girlfriend is finally on the App Store. [Chat with Brenda now!]()
 
-[Brenda](/assets/2015-07-24-phoney-girlfriend-iphone/brenda.jpg, "Brenda")
+![](/assets/2015-07-24-phoney-girlfriend-iphone/brenda.jpg)
