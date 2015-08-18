@@ -19,7 +19,7 @@ I've heard a lot of people user incentivized traffic to boost their apps ranking
 
 **2. Non-Incentivized Traffic**
 
-<a href="https://itunes.apple.com/us/app/phoney-girlfriend/id1011637655?mt=8"><img src="/assets/2015-08-18-admob-campaign/facebook_ad.jpg" /></a>
+[![](/assets/2015-08-18-admob-campaign/facebook_ad.png)](https://itunes.apple.com/us/app/phoney-girlfriend/id1011637655?mt=8)
 
 You display an ad, and people click on it if they think it's compelling/interesting. This is the more traditional way of marketing stuff. The CPI should be higher, but the quality of your users should be a lot better as well.
 
