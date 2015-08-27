@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Features
-date: 2015-XX-YYT13:37:00+08:00
+date: 2015-08-27T17:43:00+08:00
 author: Angus Cheng
 ---
 
