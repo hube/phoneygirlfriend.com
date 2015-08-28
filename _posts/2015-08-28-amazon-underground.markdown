@@ -5,7 +5,7 @@ date: 2015-XX-YYT13:13:00+08:00
 author: Angus Cheng
 ---
 
-Amazon has a pretty cool new monitization strategy for their app store. They're willing to pay 0.2¢ for every minute a user spends in your app. What's the rationale behind it? I guess it's that developers should be rewarded for getting people to use their device. Will it work out for us though? What will be better for us IAPs or Underground?
+[Amazon has a pretty cool new monitization strategy for their app store](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1003016361&ref_=mas_surl_undrgrnd). They're willing to pay 0.2¢ for every minute a user spends in your app. What's the rationale behind it? I guess it's that developers should be rewarded for getting people to use their device. Will it work out for us though? What will be better for us IAPs or Underground?
 
 **July 28 to August 25 Sales**
 
