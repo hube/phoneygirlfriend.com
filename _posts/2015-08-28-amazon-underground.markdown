@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Underground
-date: 2015-XX-YYT13:37:00+08:00
+date: 2015-XX-YYT13:13:00+08:00
 author: Angus Cheng
 ---
 
@@ -31,7 +31,7 @@ Ideally we would know how many minutes were spent in our app in the sales period
 
 Let's multiply those two values together, total them up and bam we'd have the total minutes value we were looking for.
 
-[Image of Excel Workbook]
+![](/assets/2015-08-28-amazon-underground/excel.png)
 
 30,149 minutes of Phoney Boyfriend were played which would get us:
 
