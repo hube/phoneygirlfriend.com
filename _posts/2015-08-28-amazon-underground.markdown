@@ -27,7 +27,7 @@ That seems like a lot, but that's over the course of a month. Immediately it bec
 
 **Hypothetically**
 
-Ideally we would know how many minutes were spent in our app in the sales period, and then we could simply multiply that by 0.002 and we'd know whether Amazon Underground would be good for us or not. Sadly we don't know how many minutes of Phoney Boyfriend were played. We do have the **Daily Active Users** and the *Time In App Per User** per day. 
+Ideally we would know how many minutes were spent in our app in the sales period, and then we could simply multiply that by 0.002 and we'd know whether Amazon Underground would be good for us or not. Sadly we don't know how many minutes of Phoney Boyfriend were played. We do have the **Daily Active Users** and the **Time In App Per User** per day. 
 
 Let's multiply those two values together, total them up and bam we'd have the total minutes value we were looking for.
 
