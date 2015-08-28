@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Underground
-date: 2015-XX-YYT13:13:00+08:00
+date: 2015-08-28T13:13:00+08:00
 author: Angus Cheng
 ---
 
