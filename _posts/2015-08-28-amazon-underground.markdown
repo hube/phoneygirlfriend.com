@@ -37,7 +37,7 @@ Let's multiply those two values together, total them up and bam we'd have the to
 
 <pre>30149 * 0.002 = $60.30 USD</pre>
 
-That is a lot better than $35.58, it's pretty fair to say that we will get significantly more traffic for being one of the first Amazon Underground apps so we should be more profitable using the Underground business model. There is a bit of work involved with migrating Phoney Boyfriend to Underground, but at least in theory it should be a better model for
+That is a lot better than $35.58, it's pretty fair to say that we will get significantly more traffic for being one of the first Amazon Underground apps so we should be more profitable using the Underground business model. There is a bit of work involved with migrating Phoney Boyfriend to Underground, but at least in theory it should be a better model.
 
 
 
