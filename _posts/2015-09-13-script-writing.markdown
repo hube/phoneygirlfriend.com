@@ -24,25 +24,25 @@ The script starts off with your character's biography, this text is shown in the
 
 4. Message Blocks
 
-[Picture of a Message Block]
+![](/assets/2015-09-13-script-writing/message_block.png)
 
 A message block starts off with a message from an NPC, followed by messages the player can choose to select. These messages can branch out further. We branch out to at most three levels.
 
 5. Picture Messages
 
-[Picture of Picture Message]
+![](/assets/2015-09-13-script-writing/picture_message.png)
 
 State the message number, then include the text "PICTURE MESSAGE", then import in the image you want to use. Picture messages are usually followed by a message block related to the picture.
 
 6. Voice Messages
 
-[Example of a Voice Message]
+![](/assets/2015-09-13-script-writing/voice_message.png)
 
 Write the message number, then include the text "AUDIO MESSAGE". You then write what the character says in the voice message, include the tone and any sound effects you would like included. We pass this text over to our voice actors and they'll use this to figure out how to act out the audio message.
 
 7. Update Profile Picture Nodes
 
-[Example of an Update Profile Pic]
+![](/assets/2015-09-13-script-writing/profile_pic.png)
 
 Write the text CHANGE PROFILE PICTURE and include the picture you want it to be changed to. Profile Pictures must be square images like 640x640 and they cannot have borders. 
 
@@ -50,7 +50,7 @@ Write the text CHANGE PROFILE PICTURE and include the picture you want it to be 
 
 We use pipe character to break up longer messages into multiple messages.
 
-[Example of pipes in NPC text]
+![](/assets/2015-09-13-script-writing/npc_pipes.png)
 
 The above text will break out into four separate messages.
 
@@ -61,7 +61,7 @@ Everyone’s getting drunk.
 Some girl lost her shoes trying to twerk on a table, ha ha.
 </pre>
 
-[Pipes in Player text]
+![](/assets/2015-09-13-script-writing/player_pipes.png)
 
 Pipes are use to break out Player Messages too, but the first message appears as an option to the player when they are selecting responses, and the following messages come in automatically. So you need to craft the messages so that the first message makes sense on it's own. In the above example
 
