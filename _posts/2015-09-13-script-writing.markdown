@@ -9,8 +9,9 @@ A lot of people are interested in writing scripts for Phoney Girlfriend. It's no
 
 **Terminology**
 
-NPC - Non Player Character, the girlfriend or the boyfriend. The player receives messages from the NPC.
-Player - The person playing Phoney Girlfriend. Player messages are messages that the player can choose from for a response.
+*NPC* - Non Player Character, the girlfriend or the boyfriend. The player receives messages from the NPC.
+
+*Player* - The person playing Phoney Girlfriend. Player messages are messages that the player can choose from for a response.
 
 **Use Google Drive**
 
@@ -81,7 +82,7 @@ Every four messages or so, it's good to add in a delay ranging from 15 minutes t
 
 ![](/assets/2015-09-13-script-writing/descriptive_pm.png)
 
-These are player messages that don't explicitly say what the player is going to write, but gives them an idea of what to expect. You should include at least five of these in your script.
+These are player messages that don't explicitly say what the player is going to write, but gives them an idea of what to expect. In the above example the player will see the first mesasgage "(Flirt with her)". When they select that option, the text "(Flirt With Her)" will not be written out as a message, instead the following message "You in that bikini yet? ;)" will be written.
 
 **Full Example Script**
 
