@@ -84,6 +84,14 @@ Every four messages or so, it's good to add in a delay ranging from 15 minutes t
 
 These are player messages that don't explicitly say what the player is going to write, but gives them an idea of what to expect. In the above example the player will see the first mesasgage "(Flirt with her)". When they select that option, the text "(Flirt With Her)" will not be written out as a message, instead the following message "You in that bikini yet? ;)" will be written.
 
+**Do Not**
+
+Don't mention companies, brand names, trademarks or famous people.
+
+**Highlighting**
+
+If there's a section you're worried could be too risque/offensive, select it and add in a comment so I can help you decide. I will read the entire script, but it's best to point these sections out to me.
+
 **Full Example Script**
 
 [Click here](https://docs.google.com/document/d/1SjNY4zXQyXby6ZN9QYZUvAYVYsK0EQAWgHDbDWqQgAc/edit?usp=sharing) to check out Leilani's full script on Google Drive.
