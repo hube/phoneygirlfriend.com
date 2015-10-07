@@ -17,6 +17,8 @@ A lot of people are interested in writing scripts for Phoney Girlfriend. It's no
 
 The scripts for Phoney Girlfriend are pretty long, each one is about fifteen thousand words. It takes a while to create one script. We review all the scripts, and becasue of this we want to read them as you write them. We also want to add in comments and suggest edits. [So Google Drive is a must.](https://drive.google.com)
 
+Do not be tempted to write in Microsoft Word and then upload it to Google Drive. If you do that, we lose all the commenting/editing functinality.
+
 **Biography**
 
 ![](/assets/2015-09-13-script-writing/biography.png)
